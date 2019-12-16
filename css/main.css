@@ -10,16 +10,19 @@ section {
 }
 
 h1 {
+  color: #7b7d70;
+  font-family: 'Raleway';
   font-size: 2em;
-  color: #7b7d70
 }
 
 h2 {
-  font-size: 1.5em;
   color: #4eafb8;
+  font-size: 1.5em;
+  font-family: 'Roboto', sans-serif;
 }
 p {
   color: #ff8641;
+  font-family: 'Courier Prime', monospace;
 }
 
 @media (min-width:768px){
